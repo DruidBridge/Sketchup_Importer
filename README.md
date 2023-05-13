@@ -1,6 +1,5 @@
 # pyslapi
-Python bindings for the official Sketchup API and an importer for blender based on them
-
+官方 Sketchup API 的 Python 綁定和基於它們的 blender 導入器
 
 Download: https://github.com/RedHaloStudio/Sketchup_Importer/releases
 
@@ -11,11 +10,11 @@ Download: https://github.com/RedHaloStudio/Sketchup_Importer/releases
 1.Download file from above link(Sketchup_importer_X.XX.X.zip) 
 2.Blender Add_ons install this file
 
-## 安装说明
+## 安裝說明
 
-从上面的地址下载 Sketchup_importer_X.XX.X.zip文件后，不要解压，直接到Blender的插件管理下安装。
+從上面的地址下載 Sketchup_importer_X.XX.X.zip文件後，不要解壓，直接到Blender的插件管理下安裝。
 
-## 更新日志 Changelog
+## 更新日誌 Changelog
 
 ### 2021-03-29
 Support Blender 2.93 Alpha
